@@ -1,5 +1,5 @@
 # Jeffreys-intereactive-resume
-an interactive web resume showcasing my skills in (HTML, CSS, JS)
+an interactive web resume 
 <!DOCTYPE html>
 <html lang="en">
 <head>
