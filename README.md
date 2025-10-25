@@ -1,5 +1,6 @@
 # Jeffreys-intereactive-resume
 an interactive web resume 
+!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
